@@ -1,6 +1,5 @@
 # deep-learning-challenge
-Module 21 Submission 
-Comments are made in the coding file itself. If time permits I will have another more optimized model sooner using the auto optimization method. 
+Comments are made in the coding file itself. If time permits I will have another more optimized model soon using the auto optimization method. 
 
 # Report
 ### Purpose:
